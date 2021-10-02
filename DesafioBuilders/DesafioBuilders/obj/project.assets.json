@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
+      "projectUniqueName": "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
       "projectName": "DesafioBuilders",
-      "projectPath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
+      "projectPath": "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
       "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\obj\\",
+      "outputPath": "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config",

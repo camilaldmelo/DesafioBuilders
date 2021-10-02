@@ -3945,11 +3945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
+      "projectUniqueName": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
       "projectName": "DesafioBuilders_Tests",
-      "projectPath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
+      "projectPath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
       "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3965,8 +3965,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj": {
-              "projectPath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj"
+            "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj": {
+              "projectPath": "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj"
             }
           }
         }

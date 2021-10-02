@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlNXjIZEOilLsxO2SUz3FuBQJ1KeyjPOf+WyMZ1yWO+zbjzVnN7Xmm249TkiOQ0dVkbd0P8IGls5Zhda6+VJww==",
+  "dgSpecHash": "qQ8St/JJjeUm4tOeSEevwtwu+Lj32uB0JyjQSyJVobWqDH8k8SDQxxRkIoCjZQwoOeVEzXC5UpjvZaCGcXugbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eriks\\source\\repos\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
+  "projectFilePath": "C:\\Projects_Builders\\DesafioBuilders\\DesafioBuilders\\DesafioBuilders.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eriks\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\eriks\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
