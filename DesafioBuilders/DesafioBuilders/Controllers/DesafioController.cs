@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DesafioBuilders.Models.Business;
+using DesafioBuilders.Models.Interface;
 using DesafioBuilders.Models.Persistence;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -20,10 +21,11 @@ namespace DesafioBuilders.Controllers
         public DesafioController(ILogger<DesafioController> logger)
         {
             _logger = logger;
+            new Btree().insertInitial();
+            bTree = new Btree().getAll();
 
-            ManipularBTree.insertInitial();
-            bTree = ManipularBTree.getAll();
         }
+
         [HttpGet]
         public void Get()
         {
@@ -44,7 +46,7 @@ namespace DesafioBuilders.Controllers
         [Route("IsPalindrome")]
         public bool IsPalindrome(string value)
         {
-            return Palindrome.CheckPalindrome(value);
+            return new Palindrome().CheckPalindrome(value);
         }
 
         /// <summary>
@@ -59,7 +61,7 @@ namespace DesafioBuilders.Controllers
             var retorno = 0;
 
             var NodeParam = new Node() { Value = value };
-            var aux = ManipularBTree.get(bTree, NodeParam);
+            var aux = new Btree().get(bTree, NodeParam);
 
             retorno = aux != null ? aux.node.Value : 0;
 

@@ -12,17 +12,16 @@ namespace DesafioBuilders_Tests
         public void Palidrome_Sucess()
         {
             string valueSucess = "nattan";
-            bool returnSucess = palindrome.CheckPalindromeTest(valueSucess);
-            Assert.True(returnSucess);//verifica se resultado esperado é verdadeiro
+            bool returnSucess = palindrome.CheckPalindrome(valueSucess);
+            Assert.True(returnSucess);
         }
-
 
         [Fact]
-        public void Palidrome_Exception()
+        public void Palidrome_False()
         {
-            string valueException = "teste";
-            Assert.Throws<Exception>(() => palindrome.CheckPalindromeTest(valueException));//verifica se método lança exceção
+            string valueSucess = "teste";
+            bool returnSucess = palindrome.CheckPalindrome(valueSucess);
+            Assert.False(returnSucess);
         }
-
     }
 }

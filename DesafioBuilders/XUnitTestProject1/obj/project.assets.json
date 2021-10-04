@@ -3945,9 +3945,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
-      "projectName": "DesafioBuilders_Tests",
-      "projectPath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
+      "projectUniqueName": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders.Tests.csproj",
+      "projectName": "DesafioBuilders.Tests",
+      "projectPath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders.Tests.csproj",
       "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
       "outputPath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",

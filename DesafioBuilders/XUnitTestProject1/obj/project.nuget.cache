@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhQWsRuAAr1uB4FopyuqOHDR9f4DdEqDR7jcUoyHI/ifpbjCFPd4UV/UAP7mAhVla1r4PFB5vgtY9f3KtzYixw==",
+  "dgSpecHash": "x1LtqLsCZkCdXBtuw38dp3L23/qdbnT900cAmoZOOXQjy60asnRLBqJwlishIxiSlBS7vSIv4ODcLJhFHrEotg==",
   "success": true,
-  "projectFilePath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders_Tests.csproj",
+  "projectFilePath": "C:\\Projects_Builders\\DesafioBuilders\\XUnitTestProject1\\DesafioBuilders.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eriks\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\eriks\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
